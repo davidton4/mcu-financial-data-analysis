@@ -83,7 +83,7 @@ FROM leading_roles
 JOIN actors USING (actor)
 ORDER BY number_leading_roles desc;
 
-# Highest-grossing actors, only including movies in which actor had leading role (SKILLS: CTE, Aggregate Function, Join)
+# Highest-grossing actors, only including movies in which actor had a leading role (SKILLS: CTE, Aggregate Function, Join)
 WITH leading_roles AS (
 	SELECT actor, COUNT(*) AS count
     FROM leading_cast
