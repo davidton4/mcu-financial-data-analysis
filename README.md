@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/davidton/viz/MCUFinancialDataExploration/
 
 Skills involved in this EDA:
 
-Web-scraping for data extraction
-Data cleaning & transformation in MySQL
-Joining datasets and SQL querying to manipulate and retrieve desired data
+Web-scraping for data extraction.
+Data cleaning & transformation in MySQL.
+Joining datasets and SQL querying to manipulate and retrieve desired data.
 Imported filtered data into Tableau for interactive data visualization
