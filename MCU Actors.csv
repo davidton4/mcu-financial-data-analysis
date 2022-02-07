@@ -1,0 +1,114 @@
+Person,Number of Movies,Technical Role,Franchise Worldwide Box Office,Career Worldwide Box Office,Franchise/Career
+Stan Lee,22,Stan Lee,21428094908,30607168726,0.70
+Robert Downey Jr.,11,Tony Stark/Iron Man,12849610715,15724617388,0.82
+Samuel L. Jackson,11,Nick Fury,12759463947,27684734363,0.46
+Chris Evans,9,Steve Rogers/Captain America,11516416650,13537821106,0.85
+Chris Hemsworth,8,Thor,9700989420,11689938242,0.83
+Scarlett Johansson,8,Natasha Romanoff/Black Widow,10619528486,15222608029,0.70
+Jon Favreau,7,Happy Hogan,8928136324,13759456418,0.65
+Paul Bettany,7,Vision,10745044690,13401964370,0.80
+Gwyneth Paltrow,7,Pepper Potts,9661327177,11863417392,0.81
+Don Cheadle,6,James Rhodes/War Machine,9229944479,12418000329,0.74
+Mark Ruffalo,6,Bruce Banner/Hulk,9024980154,11388519103,0.79
+Benedict Cumberbatch,6,Doctor Strange,8070733857,13908626518,0.58
+Tom Holland,6,Peter Parker/Spider-Man,9706694391,10576063501,0.92
+Paul Rudd,6,Scott Lang/Ant-Man,7140081948,10294815839,0.69
+Tom Hiddleston,6,Loki,8305672441,9399247523,0.88
+Benedict Wong,6,Wong,7638170947,9705232834,0.79
+Clark Gregg,5,Agent Coulson,4300482153,5113860892,0.84
+Sebastian Stan,5,Bucky Barnes/Winter Soldier,7083050504,7991745554,0.89
+Jeremy Renner,5,Clint Barton/Hawkeye,8908496029,11956870019,0.75
+Idris Elba,5,Heimdall,5388088645,12089076866,0.45
+Anthony Mackie,5,Sam Wilson/Falcon,8107797707,10156728242,0.80
+Elizabeth Olsen,5,Wanda Maximoff/Scarlet Witch,7393395818,8016990498,0.92
+Cobie Smulders,5,Maria Hill,6805711665,7821649507,0.87
+Marisa Tomei,5,May Parker,7658334637,9926182780,0.77
+Hayley Atwell,5,Peggy Carter,5796947657,6651910878,0.87
+Jacob Batalon,5,Ned Leeds,8554775870,8670755406,0.99
+William Hurt,5,Thaddeus Ross,6639126877,8891610884,0.75
+Evangeline Lilly,4,Hope van Dyne/The Wasp,3939803673,6268968413,0.63
+Stellan Skarsgard,4,Erik Selvig,4004346324,9850032704,0.41
+Chris Pratt,4,Peter Quill/Star-Lord,6486155814,11714160946,0.55
+Natalie Portman,4,Jane Foster,3891729698,8237205928,0.47
+Dave Bautista,4,Drax the Destroyer,6486155814,8236205904,0.79
+Bradley Cooper,4,Rocket,6486155814,11381610446,0.57
+Karen Gillan,4,Nebula,6486155814,8767083732,0.74
+Zoe Saldana,4,Gamora,6486155814,12270690383,0.53
+Chadwick Boseman,4,Black Panther,7334573160,7686848241,0.95
+John Slattery,4,Howard Stark,5089733923,6339313042,0.80
+Maximiliano Hernandez,4,Agent Jasper Sitwell,5476629282,5585180370,0.98
+Zendaya,3,Michelle Jones/MJ,3708615552,4916973881,0.75
+Anthony Hopkins,3,Odin,1944411912,6342623923,0.31
+Michael Douglas,3,Hank Pym,1142003109,3918441876,0.29
+Brie Larson,3,Carol Danvers/Captain Marvel,4345447820,5628096227,0.77
+Danai Gurira,3,Okoye,6182654639,6276412289,0.99
+Ray Stevenson,3,Volstagg,1944411912,3862519195,0.50
+Tony Revolori,3,Flash Thompson,3708615552,4056398852,0.91
+Vin Diesel,3,Groot,3688355250,11825254182,0.31
+Tadanobu Asano,3,Hogun,1944411912,3361725806,0.58
+Tessa Thompson,3,Valkyrie,3648283342,4460197986,0.82
+Letitia Wright,3,Shuri,6182654639,7123682737,0.87
+Frank Grillo,3,Brock Rumlow,4664120974,6297770648,0.74
+Angourie Rice,3,Betty Brant,3708615552,3932620615,0.94
+Pom Klementieff,3,Mantis,5715273419,5972524261,0.96
+Taika Waititi,3,Korg,3648283342,4462526283,0.82
+Rene Russo,3,Frigga,3891729698,6111877668,0.64
+Winston Duke,3,MBaku,6182654639,6439659474,0.96
+Kerry Condon,3,F.R.I.D.A.Y.,5998078839,6236002011,0.96
+Pat Kiernan,3,Himself,3323987524,4808302706,0.69
+Michael B. Jordan,2,Erik Killmonger,1336494321,2247150616,0.60
+Rachel McAdams,2,Dr. Christine Palmer,676354481,3661628669,0.19
+Chiwetel Ejiofor,2,Baron Mordo,676354481,5877199492,0.12
+Michael Pena,2,Luis,1142003109,5391182023,0.21
+Lee Pace,2,Ronan the Accuser,1900609783,6133568798,0.31
+Michael Rooker,2,Yondu Udonta,1639995496,3991464822,0.41
+Djimon Hounsou,2,Korath the Pursuer,1900609783,8619462284,0.22
+Michael Stuhlbarg,2,Dr. Nic West,676354481,2747599711,0.25
+Gemma Chan,2,Minn-Erva,1528740711,3477250653,0.44
+Kat Dennings,2,Darcy Lewis,1093929134,1563628386,0.70
+Bobby Cannavale,2,Paxton,1142003109,4491820925,0.25
+Tim Roth,2,Emil Blonsky,683493727,1811768413,0.38
+Judy Greer,2,Maggie,1142003109,6540192284,0.18
+Leslie Bibb,2,Christine Everhart,1206327936,2063369137,0.59
+T.I. Tip Harris,2,Dave,1142003109,1714756525,0.67
+Toby Jones,2,Armin Zola,1084971665,7929771414,0.14
+Ben Kingsley,2,The Mandarin,1633312140,5917491891,0.28
+Emily VanCamp,2,Agent 13,1866320410,2028774923,0.92
+David Dastmalchian,2,Kurt,1142003109,3090514023,0.37
+Martin Freeman,2,Everett K. Ross,2488412842,6136109650,0.41
+J.B. Smoove,2,Mr. Dell,2830269112,3944466626,0.72
+Zachary Levi,2,Fandral,1495085294,3125173812,0.48
+Glenn Close,2,Nova Prime,1639995496,4310313497,0.38
+Jaimie Alexander,2,Sif,1093929134,1143155747,0.96
+Jenny Agutter,2,World Security Council,2229502100,2328725805,0.96
+Andy Serkis,2,Ulysses Klaue,2731811300,14430308015,0.19
+Sean Gunn,2,Kraglin,1639995496,1818926216,0.90
+Abby Ryder Fortson,2,Cassie Lang,1142003109,1237250083,0.92
+Martin Starr,2,Mr. Harrington,2010879272,2509622577,0.80
+Kenneth Choi,2,Jim Morita,1248916216,2988975653,0.42
+Jeff Goldblum,2,Grandmaster,1719595879,7456959454,0.23
+Garry Shandling,2,Senator Stern,1335558278,3036138463,0.44
+Josh Brolin,2,Thanos,4846160318,8768307011,0.55
+John Kani,2,TChaka,2488412842,4181344689,0.60
+Hannibal Buress,2,Coach Wilson,2576082720,5494409449,0.47
+Jorge Lendeborg Jr,2,Jason Ionello,2576082720,3509416766,0.73
+Laura Haddock,2,Meredith Quill,1639995496,2329633112,0.70
+Benicio del Toro,2,The Collector,2819242149,5742833309,0.49
+Michelle Yeoh,2,Jiang Nan,1287032969,3762850911,0.34
+Zach Cherry,2,Klev,1296266308,1416222881,0.92
+J.K. Simmons,2,J. Jonah Jameson,2830269112,11253126948,0.25
+Florence Kasumba,2,Ayo,3384854075,5857279721,0.58
+Tilda Swinton,2,The Ancient One,3474155045,6457839461,0.54
+Isabella Amara,2,Sally Avril,2926706194,3060539625,0.96
+Gozie Agbo,2,Theo Broussard,1866320410,1866320410,1.00
+Angela Bassett,2,Ramonda,4134294885,7444796559,0.56
+Robert Redford,2,Agent Alexander Pierce,3512202453,5756608354,0.61
+Alexis Denisof,2,The Other,2285982606,2290311456,1.00
+Zack Duhame,2,Engine Pirate,1233260338,1827824659,0.68
+Callan Mulvey,2,Jack Rollins,3512202453,5341361159,0.66
+Brian Schaeffer,2,Strucker Mercenary,2016473368,2016473368,1.00
+Tiffany Espensen,2,Cindy,2926706194,3175570059,0.92
+Terry Notary,2,Groot,4846160318,7633474513,0.64
+Jamie McShane,2,Agent Jackson,1964426829,2609162537,0.75
+Stephen Blackehart,2,Brahl,1639995496,1852092312,0.89
+Ross Marquand,2,Red Skull,4846160318,4846192166,1.00
