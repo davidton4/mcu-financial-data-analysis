@@ -4,7 +4,9 @@ This exploratoy data analysis applied web-scraping techniques to extract and imp
 Also wrote SQL queries to manipulate and filter data for a visual analytics dashboard in Tableau (link below)
 
 *** For Data Visualizations ***
-https://public.tableau.com/app/profile/davidton/viz/MCUFinancialDataExploration/Story 
+https://public.tableau.com/app/profile/davidton/viz/MCUFinancialDataExploration/Story
+
+*** For SQL Code, Select: "MAIN_SQL_code.sql" ***
 
 Skills involved in this EDA:
 
