@@ -34,9 +34,9 @@ ORDER BY percent_domestic;
 WITH gross AS (
 	SELECT movie,
 		release_date,
-            production_budget,
-            worldwide_box_office,worldwide_box_office - production_budget AS gross_profit
-    FROM box_office)
+            	production_budget,
+            	worldwide_box_office,worldwide_box_office - production_budget AS gross_profit
+    	FROM box_office)
 SELECT gross.*,
 	ROUND((gross_profit/worldwide_box_office) * 100, 2) AS gross_margin
 FROM gross;
@@ -45,9 +45,9 @@ FROM gross;
 	# SKILLS: CTE, Aggregate Function, Join
 WITH most_successful_movie AS (
 	SELECT EXTRACT(year FROM release_date) AS year,
-			MAX(worldwide_box_office) AS revenue
+		MAX(worldwide_box_office) AS revenue
 	FROM box_office
-    GROUP BY year)
+    	GROUP BY year)
 SELECT most_successful_movie.*, box_office.movie
 FROM most_successful_movie
 JOIN box_office ON most_successful_movie.revenue = box_office.worldwide_box_office;
